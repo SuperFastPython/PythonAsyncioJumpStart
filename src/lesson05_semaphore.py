@@ -9,7 +9,7 @@ async def task(semaphore, number):
     async with semaphore:
         # generate a random value between 0 and 1
         value = random()
-        # block for a moment
+        # suspend for a moment
         await asyncio.sleep(value)
         # report a message
         print(f'Task {number} got {value}')

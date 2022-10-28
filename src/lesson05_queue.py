@@ -10,7 +10,7 @@ async def producer(queue):
     for _ in range(10):
         # generate a value
         value = random()
-        # block to simulate work
+        # suspend to simulate work
         await asyncio.sleep(value)
         # add to the queue
         await queue.put(value)

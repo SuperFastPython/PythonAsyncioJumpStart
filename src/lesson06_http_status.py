@@ -3,7 +3,7 @@
 import asyncio
 import urllib.parse
 
-# get the HTTP/S status of a webpage
+# get the http status of a webpage
 async def get_status(url):
     # split the url into components
     url_parsed = urllib.parse.urlsplit(url)

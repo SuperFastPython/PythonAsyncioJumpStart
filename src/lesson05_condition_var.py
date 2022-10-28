@@ -4,7 +4,7 @@ import asyncio
 
 # task coroutine
 async def task(condition, work_list):
-    # block for a moment
+    # suspend for a moment
     await asyncio.sleep(1)
     # add data to the work list
     work_list.append(33)

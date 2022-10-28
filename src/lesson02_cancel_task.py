@@ -6,7 +6,7 @@ import asyncio
 async def task_coroutine():
     # report a message
     print('executing the task')
-    # block for a moment
+    # suspend for a moment
     await asyncio.sleep(1)
 
 # custom coroutine

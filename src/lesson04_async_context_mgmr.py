@@ -8,14 +8,14 @@ class AsyncContextManager:
     async def __aenter__(self):
         # report a message
         print('>entering the context manager')
-        # block for a moment
+        # suspend for a moment
         await asyncio.sleep(0.5)
 
     # exit the async context manager
     async def __aexit__(self, exc_type, exc, tb):
         # report a message
         print('>exiting the context manager')
-        # block for a moment
+        # suspend for a moment
         await asyncio.sleep(0.5)
 
 # define a simple coroutine

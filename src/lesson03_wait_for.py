@@ -9,7 +9,7 @@ async def task_coro():
     value = 1 + random()
     # report message
     print(f'>task got {value}')
-    # block for a moment
+    # suspend for a moment
     await asyncio.sleep(value)
     # report all done
     print('>task done')

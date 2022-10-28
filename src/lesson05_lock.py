@@ -9,7 +9,7 @@ async def task(lock, num, value):
     async with lock:
         # report a message
         print(f'>{num} got the lock, sleep for {value}')
-        # block for a moment
+        # suspend for a moment
         await asyncio.sleep(value)
 
 # entry point

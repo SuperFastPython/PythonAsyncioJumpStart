@@ -7,7 +7,7 @@ import asyncio
 async def task_coro(arg):
     # generate a random value between 0 and 1
     value = random()
-    # block for a moment
+    # suspend for a moment
     await asyncio.sleep(value)
     # return the result
     return arg * value

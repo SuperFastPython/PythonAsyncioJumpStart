@@ -24,33 +24,33 @@ You can learn more about the book here:
 
 ### Book Blurb
 
->Asyncio is an exciting new addition to Python.
+> Asyncio is an exciting new addition to Python.
 >
->It allows regular python programs to be developed using the asynchronous programming paradigm.
+> It allows regular Python programs to be developed using the asynchronous programming paradigm.
 >
->It includes changes to the language to support coroutines as first-class objects, such as the `async def` and `await` expressions, and the lesser discussed `async for` and `async with` expressions for asynchronous iterators and context managers respectively.
+> It includes changes to the language to support coroutines as first-class objects, such as the `async def` and `await` expressions, and the lesser discussed `async for` and `async with` expressions for asynchronous iterators and context managers respectively.
 >
->Asyncio is the way to rapidly develop scalable Python programs capable of tens or hundreds of thousands of concurrent tasks.
+> Asyncio is the way to rapidly develop scalable Python programs capable of tens or hundreds of thousands of concurrent tasks.
 >
->Developing concurrent programs using coroutines and the asyncio module API can be very challenging for beginners, especially those new to asynchronous programming.
+> Developing concurrent programs using coroutines and the `asyncio` module API can be very challenging for beginners, especially those new to asynchronous programming.
 >
->Introducing: "Python Asyncio Jump-Start". A new book designed to teach you asyncio in Python, super fast!
+> Introducing: "Python Asyncio Jump-Start". A new book designed to teach you asyncio in Python, super fast!
 >
->You will get a rapid-paced, 7-part course to get you started and make you awesome at using asyncio.
+> You will get a rapid-paced, 7-part course focused on getting you started and make you awesome at using asyncio.
 >
->Including:
+> Including:
 >
->* How to define, schedule, and execute asynchronous tasks as coroutines.
->* How to manage groups of asynchronous tasks, including waiting for al tasks, the first that, or the first task to fail.
->* How to define, create, and use asynchronous iterators, generators, and context manages
->* How to share data between coroutines with quests and how to synchronize coroutines to make code coroutine-safe.
->* How to run commands as subprocesses and how to implement asynchronous socket programming with streams.
->* How to develop a port scanner that is 3,000+ times faster than the sequential version.
+> * How to define, schedule, and execute asynchronous tasks as coroutines.
+> * How to manage groups of asynchronous tasks, including waiting for al tasks, the first that, or the first task to fail.
+> * How to define, create, and use asynchronous iterators, generators, and context manages
+> * How to share data between coroutines with quests and how to synchronize coroutines to make code coroutine-safe.
+> * How to run commands as subprocesses and how to implement asynchronous socket programming with streams.
+> * How to develop a port scanner that is nearly 1,000 times faster than the sequential version.
 >
->Each of the 7 lessons was carefully designed to teach one critical aspect of asyncio, with explanations, code snippets, and worked examples.
+> Each of the 7 lessons was carefully designed to teach one critical aspect of asyncio, with explanations, code snippets, and complete examples.
 >
->Each lesson ends with an exercise for you to complete to confirm you understood the topic, a summary of what was learned, and links for further reading if you want to go deeper.
+> Each lesson ends with an exercise for you to complete to confirm you understood the topic, a summary of what was learned, and links for further reading if you want to go deeper.
 >
->Stop copy-pasting code from StackOverflow answers.
+> Stop copy-pasting code from StackOverflow answers.
 >
->Learn Python concurrency correctly, step-by-step.
+> Learn Python concurrency correctly, step-by-step.

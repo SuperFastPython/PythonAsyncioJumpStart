@@ -6,7 +6,7 @@ import asyncio
 async def async_generator():
     # normal loop
     for i in range(10):
-        # block to simulate doing work
+        # suspend to simulate doing work
         await asyncio.sleep(1)
         # yield the result
         yield i

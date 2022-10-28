@@ -7,7 +7,7 @@ import asyncio
 def blocking_task():
     # report a message
     print('task is running')
-    # block
+    # block the thread
     time.sleep(2)
     # report a message
     print('task is done')
