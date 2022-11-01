@@ -25,6 +25,7 @@ You can learn more about the book here:
 * [Amazon Paperback](https://amzn.to/3SOxboO)
 * [Google Books](http://books.google.com/books/about?id=daSYEAAAQBAJ)
 * [Google Play](https://play.google.com/store/books/details?id=daSYEAAAQBAJ)
+* [Goodreads](https://www.goodreads.com/book/show/63183137-python-asyncio-jump-start)
 
 
 ### Book Blurb
