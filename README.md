@@ -19,7 +19,12 @@ You can access all Python .py files directly here:
 
 You can learn more about the book here:
 
-* Coming soon...
+* [Book Homepage](https://superfastpython.com/python-asyncio-jump-start/)
+* [Gumroad](https://superfastpython.gumroad.com/l/paj)
+* [Amazon Kindle](https://amzn.to/3DJJJt6)
+* [Amazon Paperback](https://amzn.to/3SOxboO)
+* [Google Books](http://books.google.com/books/about?id=daSYEAAAQBAJ)
+* [Google Play](https://play.google.com/store/books/details?id=daSYEAAAQBAJ)
 
 
 ### Book Blurb

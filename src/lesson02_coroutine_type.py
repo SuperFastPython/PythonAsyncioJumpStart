@@ -1,6 +1,5 @@
 # SuperFastPython.com
 # example of checking the type of a coroutine
-import asyncio
 
 # define a coroutine
 async def custom_coro():
